@@ -1,4 +1,4 @@
-package task_01.rentagle;
+package task_01.rectangle;
 
 public class Rectangle {
 
